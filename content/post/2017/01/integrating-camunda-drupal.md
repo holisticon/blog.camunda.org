@@ -6,14 +6,14 @@ tags = ["Drupal"]
 title = "Integrating Camunda and Drupal"
 +++
 
-As part of my slask time I have tried to integrate Camunda into the latest version of Drupal.  
-For the record, Drupal is powering a [large amount of](https://w3techs.com/technologies/details/cm-drupal/all/all) [the top websites](https://trends.builtwith.com/cms/Drupal) available on the Internet.
+Over the last days, I have worked on integrating Camunda into the latest version of Drupal.  
+For the record, Drupal is an Open Source CMS powering a [large number of](https://w3techs.com/technologies/details/cm-drupal/all/all) [the top websites](https://trends.builtwith.com/cms/Drupal) available on the Internet.
 Therefore it is reasonnable to assume that the combination of Camunda and Drupal is possible scenario.
 <!--more-->
 
 # Goal
 
-In this article, we will use Drupal as a front-end for the invoice demonstration process (shipped with the Camunda BPM distribution).
+In this article, Drupal is used as a front-end for the invoice demonstration process (shipped with the Camunda BPM distribution).
 
 {{< figure src="result.png" >}}
 
