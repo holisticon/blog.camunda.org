@@ -14,7 +14,7 @@ I'm happy to announce the first release of the new community extension [FEEL-Sca
 
 The Camunda DMN engine includes a [built-in FEEL engine](https://docs.camunda.org/manual/latest/reference/dmn11/feel/) which can be used for input entries of a decision table. Currently, this FEEL engine can not be used for other expressions (e.g., output entries, literal expressions) and only supports a limited set of data types and operators. 
 
-The new community extension brings a completely new FEEL engine which has the goal to fill the gaps. It supports all data types, all operators, built-in functions and can be used for input entries (i.e., unary tests) and any other expression. So it might be interesting for applications that uses DMN intensively to model complex decisions and especially for decision literal expression.
+The new community extension brings a completely new FEEL engine which has the goal to fill the gaps. It supports all data types, all operators, built-in functions and can be used for input entries (i.e., unary tests) and any other expression. So it might be interesting for applications that use DMN intensively to model complex decisions and especially for decision literal expressions.
 
 # Why Scala?
 
